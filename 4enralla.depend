@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1761126140 source:c:\users\hp\desktop\4enralla\tauler.c
+	<stdlib.h>
+
+1761654906 source:c:\users\hp\desktop\4enralla\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1759843774 source:c:\users\shpctac0fff2\desktop\4enralla\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1759842186 source:c:\users\shpctac0fff2\desktop\4enralla\tauler.c
+	<stdlib.h>
+
+1759911520 source:d:\programacio avançada\4enralla\main.c
+	<stdlib.h>
+
+1760449118 source:d:\programacio avançada\4enralla\tauler.c
+	<stdio.h>
+	<stdlib.h>
+
+1761126142 source:c:\users\shpctac10000\desktop\4enralla\tauler.c
+	<stdlib.h>
+
+1763130812 source:c:\users\shpctac10000\desktop\4enralla\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1763494133 source:c:\users\hp\desktop\4enrallanou\tauler.c
+	<stdio.h>
+	<stdlib.h>
+	"fitxer.h"
+
+1763490608 source:c:\users\hp\desktop\4enrallanou\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fitxer.h"
+
+1763493141 c:\users\hp\desktop\4enrallanou\fitxer.h
+
+1763723213 source:c:\users\hp\desktop\4enrallanou - còpia\tauler.c
+	<stdio.h>
+	<stdlib.h>
+	"fitxer.h"
+
+1763493141 c:\users\hp\desktop\4enrallanou - còpia\fitxer.h
+
+1763723213 source:c:\users\hp\desktop\4enralla def\tauler.c
+	<stdio.h>
+	<stdlib.h>
+	"fitxer.h"
+
+1763493141 c:\users\hp\desktop\4enralla def\fitxer.h
+
+1763724240 source:c:\users\hp\desktop\4enralla def\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fitxer.h"
+
